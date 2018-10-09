@@ -1,3 +1,3 @@
-# moshmash.github.io
+# ![мошка](moshka.jpg) moshmash.github.io
 
-Пробная страничка на **GitHub**
+*Пробная* страничка на **GitHub**
